@@ -1,0 +1,2098 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ne",
+				"nextRootReducer"
+			],
+			[
+				"GetAllC",
+				"GetAllCountries"
+			],
+			[
+				"box-s",
+				"box-sizing"
+			],
+			[
+				"Vis",
+				"VisualBottom"
+			],
+			[
+				"t_ReturnR",
+				"t_ReturnRows	(Database.asp)"
+			],
+			[
+				"Frees",
+				"FreeShipping	(product.asp)"
+			],
+			[
+				"reci",
+				"recipient"
+			],
+			[
+				"block",
+				"blockquote	Tag"
+			],
+			[
+				"recip",
+				"Recipients"
+			],
+			[
+				"IsInt",
+				"IsIntegerList"
+			],
+			[
+				"GetWist",
+				"GetWishListSlug	(index.asp)"
+			],
+			[
+				"GetbType",
+				"GetVbType	(base.asp)"
+			],
+			[
+				"IsV",
+				"IsVtwonenBe	(CustomerController.asp)"
+			],
+			[
+				"Create",
+				"CreateCommand()_"
+			],
+			[
+				"Has",
+				"HasOwnCustomers	(CustomerController.asp)"
+			],
+			[
+				"Render",
+				"RenderPartial"
+			],
+			[
+				"targ",
+				"targetEl"
+			],
+			[
+				"shop",
+				"shopId"
+			],
+			[
+				"Countr",
+				"Countries"
+			],
+			[
+				"valu",
+				"valueArray"
+			],
+			[
+				"Q",
+				"QueryString"
+			],
+			[
+				"Inst",
+				"Instructions"
+			],
+			[
+				"IsPla",
+				"IsPlazaOrder	(return.asp)"
+			],
+			[
+				"zip",
+				"ziplookup	(23g.js)"
+			],
+			[
+				"isV",
+				"isValidHouseNumber"
+			],
+			[
+				"house",
+				"houseNumber"
+			],
+			[
+				"defa",
+				"defaultSelectors"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"Addre",
+				"AddressBook"
+			],
+			[
+				"IsVt",
+				"IsVtwonenBE"
+			],
+			[
+				"Qu",
+				"QuantityReturned	(return.asp)"
+			],
+			[
+				"quan",
+				"quantitySelect"
+			],
+			[
+				"Ima",
+				"ImageUrl2"
+			],
+			[
+				"space-",
+				"space-between"
+			],
+			[
+				"Faceo",
+				"FacebookId"
+			],
+			[
+				"Remve",
+				"RemoveFacebook"
+			],
+			[
+				"lat",
+				"latitude"
+			],
+			[
+				"GetPrp",
+				"GetProperty	(mapLocations.asp)"
+			],
+			[
+				"Replace",
+				"ReplaceTagsMapLocation"
+			],
+			[
+				"Loca",
+				"Locations	(StoreLocatorController.asp)"
+			],
+			[
+				"SHop",
+				"ShopId"
+			],
+			[
+				"GetPro",
+				"GetAllProductTypes	(mapLocations.asp)"
+			],
+			[
+				"productT",
+				"productTypes"
+			],
+			[
+				"Rewr",
+				"RewriteRule"
+			],
+			[
+				"Is",
+				"IsInternal"
+			],
+			[
+				"Time",
+				"TimeUntilMidnight	(_incTools_.asp)"
+			],
+			[
+				"_",
+				"_blank	(product.asp)"
+			],
+			[
+				"Mob",
+				"MobileDetect"
+			],
+			[
+				"base64",
+				"base64Url"
+			],
+			[
+				"atr",
+				"article	(23g.less)"
+			],
+			[
+				"Paging",
+				"PagingManager"
+			],
+			[
+				"tota",
+				"totalRecords"
+			],
+			[
+				"Total",
+				"TotalRecords"
+			],
+			[
+				"GetProd",
+				"GetProductStockMessage"
+			],
+			[
+				"country",
+				"countryShippingCheck"
+			],
+			[
+				"class",
+				"class=active"
+			],
+			[
+				"Voorjaar",
+				"VoorjaarsHuisActie	(class_voorjaarshuis.asp)"
+			],
+			[
+				"Gift",
+				"GiftList"
+			],
+			[
+				"BBQ_",
+				"BBQS_CATEGORY_ID"
+			],
+			[
+				"active",
+				"activeCategoryId"
+			],
+			[
+				"GetA",
+				"GetActiveCategory"
+			],
+			[
+				"Int",
+				"INT"
+			],
+			[
+				"requer",
+				"requiredProductIds"
+			],
+			[
+				"requre",
+				"requiredProductsClause,_"
+			],
+			[
+				"Entity",
+				"EntityMapper"
+			],
+			[
+				"Class",
+				"Class_Initialize	(Database.asp)"
+			],
+			[
+				"MapRow",
+				"MapRowToGiftListProduct"
+			],
+			[
+				"CLass",
+				"Class_Initialize	(Database.asp)"
+			],
+			[
+				"GiftListProduct",
+				"GiftListProductFlat	(GiftListMapping.asp)"
+			],
+			[
+				"Gif",
+				"GiftList"
+			],
+			[
+				"GiftListPr",
+				"GiftListProductEntity"
+			],
+			[
+				"reco",
+				"recordsOnPage"
+			],
+			[
+				"iFreeS",
+				"iFreeStock	(order.cart.asp)"
+			],
+			[
+				"QueryForJ",
+				"QueryForJsonObject	(sb-todo.md)"
+			],
+			[
+				"oRe",
+				"oResultShop"
+			],
+			[
+				"RenderPartial",
+				"RenderPartialsFromCache	(index.asp)"
+			],
+			[
+				"ARRAT",
+				"ArrayLength	(_product.images.asp)"
+			],
+			[
+				"_remo",
+				"_removeRequested"
+			],
+			[
+				"partia",
+				"partialHtml"
+			],
+			[
+				"Remove",
+				"RemoveByPrefix	(MemoryCacher.asp)"
+			],
+			[
+				"cacheK",
+				"cacheKeys"
+			],
+			[
+				"vb",
+				"vbNewline	(base.mvc.asp)"
+			],
+			[
+				"GetUrl",
+				"GetUrlFor23G"
+			],
+			[
+				"GetAc",
+				"GetActiveClauseKey"
+			],
+			[
+				"GetL",
+				"GetListTotal"
+			],
+			[
+				"Response",
+				"ResponseProxy	(base.asp)"
+			],
+			[
+				"Query",
+				"QueryString"
+			],
+			[
+				"GetM",
+				"GetMultiple	(RedisCacher.asp)"
+			],
+			[
+				"duck",
+				"duckstadshop"
+			],
+			[
+				"time",
+				"timeEnd"
+			],
+			[
+				"entit",
+				"entityMap"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"prefix",
+				"prefixedKeys"
+			],
+			[
+				"GetVtH",
+				"GetVtHeadAndFoot"
+			],
+			[
+				"com",
+				"com	comment"
+			],
+			[
+				"Image",
+				"ImageUrl2	(ProductDao.asp)"
+			],
+			[
+				"GetD",
+				"GetDocumentContent	(Layout.asp)"
+			],
+			[
+				"_M",
+				"_MVCcontroller	(Kernel.asp)"
+			],
+			[
+				"isP",
+				"isProductPage"
+			],
+			[
+				"acc",
+				"accountId"
+			],
+			[
+				"Giftl",
+				"GiftListSlug"
+			],
+			[
+				"IsVTW",
+				"IsVtWonenBE	(prediggoHelper.asp)"
+			],
+			[
+				"VTW",
+				"VTWONEN_SHOP_ID	(core.tools.asp)"
+			],
+			[
+				"IsVtW",
+				"IsVtWonenNL	(core.tools.asp)"
+			],
+			[
+				"IsVT",
+				"IsVTWonenBE"
+			],
+			[
+				"sorto",
+				"sortOrderFields"
+			],
+			[
+				"Passw",
+				"PasswordHasher	(class_passwordHasher.asp)"
+			],
+			[
+				"origi",
+				"originalValue"
+			],
+			[
+				"choco__l",
+				"choco__letter"
+			],
+			[
+				"choco__i",
+				"choco__letter__input:first"
+			],
+			[
+				"input",
+				"inputBox"
+			],
+			[
+				"ChocoBlockG",
+				"ChocoBlockGuid"
+			],
+			[
+				"Choc",
+				"ChocoBlock"
+			],
+			[
+				"Giftfinder",
+				"GiftFinderForm	(GiftFinder.asp)"
+			],
+			[
+				"StopW",
+				"Stopwatch(\"Db	(sb-todo.md)"
+			],
+			[
+				"QueryForVa",
+				"QueryForValueCache"
+			],
+			[
+				"GetProp",
+				"GetProperty	(JsonVbConverter.asp)"
+			],
+			[
+				"IsA",
+				"IsAjax	(vt-vt.asp)"
+			],
+			[
+				"VTWONEN",
+				"VTWONEN_SHOP_ID"
+			],
+			[
+				"Address",
+				"AddressGenerated	(OrderEntity.asp)"
+			],
+			[
+				"ShippingAd",
+				"ShippingAddress"
+			],
+			[
+				"not",
+				"nothing"
+			],
+			[
+				"Cate",
+				"Category"
+			],
+			[
+				"rc",
+				"rc	response-clear"
+			],
+			[
+				"IsVtWo",
+				"IsVtWonenBe	(_incProductList.asp)"
+			],
+			[
+				"QueryForJson",
+				"QueryForJsonObject	(sb-todo.md)"
+			],
+			[
+				"REQUEST_",
+				"REQUEST_URI"
+			],
+			[
+				"rela",
+				"relatedProductCount"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/App.js",
+			"settings":
+			{
+				"buffer_size": 1403,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/ducks/todo/add.js",
+			"settings":
+			{
+				"buffer_size": 1598,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "// https://github.com/koshuang/react-redux-starter-kit/blob/master/src/app/entities/fetchEntities.js\nexport const fetchEntityFactory = path => (id, jwt) => {\n    fetchForFactory(`/${path}/${id}`).then(json => ({ item: json }));\n}\nexport const fetchEntitiesFactory = path => (jwt) => {\n    fetchForFactory(`/${path}`).then(json => ({ list: json }));\n}\n\nfunction fetchForFactory(path, jwt) {\n  const headers = {\n    'Accept': 'application/json',\n    'Content-Type': 'application/json charset=utf-8'\n  }\n\n  if (jwt) {\n    headers['Authorization'] = jwt\n  }\n\n  return fetch(API_URL + path, {\n    headers,\n    // Allows API to set http-only cookies with AJAX calls\n    // @see http://www.redotheweb.com/2015/11/09/api-security.html\n    credentials: 'include'\n  })\n  .then(response => {\n    if (!response.ok) {\n      return response.text().then(result => Promise.reject(new Error(result)))\n    }\n\n    return response.json()\n  })\n  .then(json => json, error => ({ error }))\n}",
+			"settings":
+			{
+				"buffer_size": 968,
+				"line_ending": "Windows",
+				"name": "// https://github.com/koshuang/react-redux-starter"
+			}
+		},
+		{
+			"file": "todo.md",
+			"settings":
+			{
+				"buffer_size": 770,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/helpers.js",
+			"settings":
+			{
+				"buffer_size": 529,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "babel",
+		"selected_items":
+		[
+			[
+				"babel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"gfm",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"vbsc",
+				"Set Syntax: VBScript"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"color",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"colorsc",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"colo",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"utf",
+				"ConvertToUTF8: Reload with Encoding"
+			],
+			[
+				"asp",
+				"Set Syntax: HTML (ASP)"
+			],
+			[
+				"synhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"markdo",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markd",
+				"Markdown Preview: Save to HTML"
+			],
+			[
+				"syn asp",
+				"Set Syntax: ASP"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"apach",
+				"Set Syntax: Apache Conf"
+			],
+			[
+				"synasp",
+				"Set Syntax: ASP"
+			],
+			[
+				"syntax asp",
+				"Set Syntax: ASP"
+			],
+			[
+				"",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"bab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"theme",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"apac",
+				"Set Syntax: Apache Conf"
+			],
+			[
+				"col",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"schem",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"react",
+				"Set Syntax: TypeScriptReact"
+			],
+			[
+				"jsx",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"set htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"omni",
+				"OmniMarkupPreviewer: Preview Current Markup in Browser"
+			],
+			[
+				"synhtml ",
+				"Set Syntax: HTML"
+			],
+			[
+				"markd ht",
+				"Markdown Preview: Save to HTML"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"save",
+				"Markdown Preview: Save to HTML"
+			],
+			[
+				"markd sa",
+				"Markdown Preview: Save to HTML"
+			],
+			[
+				"Package Control: l",
+				"Package Control: List Packages"
+			],
+			[
+				"markd h",
+				"Markdown Preview: Save to HTML"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Save to HTML"
+			],
+			[
+				"markdon",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"conv",
+				"ConvertToUTF8: Reload with Encoding"
+			],
+			[
+				"brwoser",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"browser",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"syn htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"syn html",
+				"Set Syntax: HTML"
+			],
+			[
+				"jsno",
+				"Set Syntax: JSON"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"aSP",
+				"Set Syntax: HTML (ASP)"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"javsc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"hand",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"w",
+				"Word Wrap: Toggle"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"babe",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"jsc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"vbs",
+				"Set Syntax: VBScript"
+			],
+			[
+				"jaababel ",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sq",
+				"Set Syntax: SQL"
+			],
+			[
+				"powers",
+				"Set Syntax: PowerShell"
+			]
+		],
+		"width": 430.0
+	},
+	"console":
+	{
+		"height": 218.0,
+		"history":
+		[
+			"a",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": true,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/web/redux",
+		"/D/web/redux/redux-todo",
+		"/D/web/redux/redux-todo/dist",
+		"/D/web/redux/redux-todo/src",
+		"/D/web/redux/redux-todo/src/ducks",
+		"/D/web/redux/redux-todo/src/ducks/todo"
+	],
+	"file_history":
+	[
+		"/D/web/redux/redux-todo/src/index.js",
+		"/D/web/redux/redux-todo/src/ducks/configureStore.js",
+		"/D/web/redux/redux-todo/src/helpers.js",
+		"/D/web/redux/redux-todo/package.json",
+		"/D/web/redux/redux-todo/.babelrc",
+		"/D/web/redux/redux-todo/src/ducks/todo/index.js",
+		"/D/web/redux/redux-todo/src/ducks/todo/add.js",
+		"/D/web/redux/redux-todo/src/ducks/rootReducer.js",
+		"/D/web/redux/package.json",
+		"/D/web/redux/redux-todo/.eslintrc",
+		"/C/web/sites/.htaccess",
+		"/C/web/sites/.htaccess.bbq",
+		"/D/web/redux/redux-todo/webpack.config.js",
+		"/D/web/redux/src/App.css",
+		"/D/web/redux/webpack.config.js",
+		"/D/web/redux/src/App.js",
+		"/C/Users/John/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/D/web/channelengine-app/john/server.js",
+		"/D/web/playground/package.json",
+		"/D/web/playground/views/layout.jade",
+		"/D/web/playground/views/index.jade",
+		"/D/web/playground/models/user.js",
+		"/D/web/playground/bin/www",
+		"/D/web/playground/app.js",
+		"/D/web/playground/routes/index.js",
+		"/D/web/playground/routes/users.js",
+		"/D/web/tritac/react-redux-universal-hot-example/src/routes.js",
+		"/D/web/tritac/react-redux-universal-hot-example/src/server.js",
+		"/D/web/example-react-router-server-rendering-lazy-routes-master/modules/routes/RootRoute.js",
+		"/D/web/example-react-router-server-rendering-lazy-routes-master/modules/components/App.js",
+		"/D/OneDrive/Documents/Web/bgg-buddy/app/components/App.js",
+		"/D/OneDrive/Documents/Web/redux-duck-login.js",
+		"/D/OneDrive/Documents/Web/bgg-buddy/app/actions/BggViewActions.js",
+		"/D/OneDrive/Documents/Web/bgg-buddy/app/stores/BggStore.js",
+		"/D/OneDrive/Documents/Web/bgg-buddy/app/dispatcher/AppDispatcher.js",
+		"/D/OneDrive/Documents/Web/bgg-buddy/app/browser.js",
+		"/C/web/sites/sb-shop-node/server.js",
+		"/C/web/components/deploy.ps1",
+		"/D/web/example-react-router-server-rendering-lazy-routes-master/modules/utils/server-utils.js",
+		"/D/web/example-react-router-server-rendering-lazy-routes-master/modules/server.js",
+		"/D/web/tritac/react-redux-universal-hot-example/app.json",
+		"/D/web/tritac/react-redux-universal-hot-example/server.babel.js",
+		"/D/web/tritac/react-redux-universal-hot-example/webpack-assets.json",
+		"/D/web/channelengine-app/john/package.json",
+		"/C/web/sites/SB-Shop/_docs/responsive-templates/account-verlanglijst.html",
+		"/C/web/sites/SB-Shop/mobile/app/templates/vtwonen/_views/brand/highlights.asp",
+		"/C/web/sites/SB-Shop/mobile/app/templates/vtwonen/_views/product/_article.23g.asp",
+		"/C/web/sites/SB-Shop/mobile/app/areas/responsive/views/order/checkout.asp",
+		"/C/web/sites/SB-Shop/media/_shared/js/20_customer.js",
+		"/C/web/sites/SB-Shop/mobile/app/areas/responsive/js/pages/order.js",
+		"/C/web/sites/SB-Shop/scripts/_incCheckEmail.asp",
+		"/C/web/sites/SB-Shop/mobile/domain/dao/OrderDao.asp",
+		"/C/web/sites/SB-Shop/mobile/app/templates/vtwonen/_views/product/index.asp",
+		"/C/web/sites/SB-Shop/mobile/app/controllers/ProductController.asp",
+		"/C/web/sites/SB-Shop/mobile/domain/dao/ReviewDao.asp",
+		"/C/web/sites/SB-Shop/mobile/lib/helpers/base.shop.asp",
+		"/C/web/sites/SB-Shop/mobile/web.config",
+		"/C/web/sites/SB-Shop/mobile/app/controllers/CustomerController.asp",
+		"/C/web/sites/SB-Shop/mobile/app/controllers/OrderController.asp",
+		"/C/web/sites/SB-Shop/mobile/app/templates/vtwonen/Layout.asp",
+		"/C/web/sites/SB-Shop/mobile/lib/classes/NotificationManager.asp",
+		"/C/web/sites/SB-Shop/scripts/prodReview.asp",
+		"/C/web/sites/SB-Shop/mobile/lib/classes/SessionHandler.asp",
+		"/C/web/sites/SB-Shop/sb-core/functions/core.functions.asp",
+		"/C/web/sites/SB-Shop/mobile/lib/helpers/base.asp",
+		"/C/web/sites/SB-Shop/scripts/20_Customer.asp",
+		"/C/web/sites/SB-Shop/usermods/templates/vt-vt.asp",
+		"/C/web/sites/SB-Shop/scripts/class_menuList.asp",
+		"/C/web/sites/SB-Shop/mobile/app/controllers/BrandController.asp",
+		"/C/web/sites/SB-Shop/mobile/lib/helpers/base.arrays.asp",
+		"/C/web/sites/SB-Shop/mobile/app/views/brand/index.asp",
+		"/C/web/sites/SB-Shop/mobile/.htaccess",
+		"/C/web/sites/SB-Shop/.htaccess",
+		"/C/web/sites/SB-Shop/mobile/domain/mappings/GiftListMapping.asp",
+		"/C/web/sites/SB-Shop/mobile/domain/dao/ProductDao.asp",
+		"/C/web/sites/SB-Shop/mobile/app/controllers/GiftListController.asp",
+		"/C/web/sites/SB-Shop/mobile/app/controllers/StoreLocatorController.asp",
+		"/C/web/sites/SB-Shop/sb-core/functions/mapLocations.asp",
+		"/C/web/sites/SB-Shop/media/vt-vt/js/23g.js",
+		"/C/web/sites/SB-Shop/mobile/domain/entities/ProductEntity.asp",
+		"/C/web/sites/SB-Shop/mobile/domain/dao/MapDao.asp",
+		"/X/_. Archief/golfclubtrader.nl/httpdocs/UserMods/_INCtemplate_.asp",
+		"/C/web/sites/SB-Shop/mobile/lib/classes/Database.asp",
+		"/C/web/sites/SB-Shop/mobile/app/templates/vtwonen/css/23g.less",
+		"/C/web/sites/SB-Shop/media/vt-vt/style/layout/vtwonen-nl.less",
+		"/C/web/sites/SB-Shop/scripts/prodView.asp",
+		"/C/web/sites/SB-Shop/scripts/_incTools_.asp",
+		"/C/web/sites/SB-Shop/scripts/mapLocations.asp",
+		"/C/web/sites/SB-Shop/_docs/responsive-templates/verkooppunten.html",
+		"/C/web/sites/SB-Shop/mobile/app/templates/vtwonen/_views/storelocator/index.asp",
+		"/C/web/sites/SB-Shop/mobile/lib/helpers/base.mvc.asp",
+		"/C/web/sites/SB-Shop/media/vt-vt/style/settings/_colorscheme.less",
+		"/C/web/sites/SB-Shop/mobile/app/templates/vtwonen/_views/customer/_informationAddressItem.asp",
+		"/C/web/sites/SB-Shop/mobile/app/models/VTWonenAddressBook.asp",
+		"/C/web/sites/SB-Shop/mobile/app/templates/vtwonen/_views/product/_product.images.asp",
+		"/C/web/sites/SB-Shop/mobile/app/templates/vtwonen/_views/customer/_formSelectAddress.asp",
+		"/C/web/sites/SB-Shop/mobile/app/templates/vtwonen/_views/product/_product.brand.asp",
+		"/C/web/sites/SB-Shop/mobile/app/templates/vtwonen/_views/customer/_formSelect.asp",
+		"/C/web/sites/SB-Shop/mobile/domain/dao/GiftlistDao.asp",
+		"/C/web/sites/SB-Shop/mobile/domain/mappings/_includes.asp",
+		"/C/web/sites/SB-Shop/mobile/domain/services/GiftlistService.asp",
+		"/C/web/sites/SB-Shop/mobile/app/controllers/VoorjaarshuisController.asp",
+		"/C/web/sites/SB-Shop/sb-core/functions/product.asp",
+		"/C/web/sites/SB-Shop/scripts/custListOrders.asp",
+		"/C/web/sites/SB-Shop/web.config",
+		"/D/web/pipstudio/Presentation/Katana.Web/webkit-mq-test.html",
+		"/C/web/sites/SB-Shop/scripts/ReturnOrder.asp",
+		"/C/web/sites/SB-Shop/mobile/app/templates/vtwonen/_views/voorjaarshuis/lijst.asp",
+		"/C/web/sites/SB-Shop/sb-core/classes/class_voorjaarshuis.asp",
+		"/C/web/sites/SB-Shop/mobile/domain/entities/BrandEntity.asp",
+		"/C/web/sites/SB-Shop/mobile/domain/dao/BrandDao.asp",
+		"/C/web/sites/SB-Shop/mobile/domain/entities/ShopEntity.asp",
+		"/C/web/sites/SB-Shop/mobile/lib/classes/Kernel.asp",
+		"/C/web/sites/SB-Shop/mobile/domain/services/ElasticSearchService.asp",
+		"/C/web/sites/SB-Shop/mobile/app/controllers/CategoryController.asp",
+		"/C/web/sites/SB-Shop/_docs/responsive-templates/account-aanmelden.html",
+		"/C/web/sites/SB-Shop/scripts/_incWishList.asp",
+		"/C/web/sites/SB-Shop/mobile/app/templates/vtwonen/_views/giftlist/_email.asp",
+		"/C/web/sites/SB-Shop/scripts/cart.asp",
+		"/C/web/sites/SB-Shop/mobile/app/templates/vtwonen/_views/customer/_formInput.asp",
+		"/C/web/sites/SB-Shop/mobile/app/templates/vtwonen/_views/giftlist/index.asp",
+		"/C/web/sites/SB-Shop/mobile/app/templates/vtwonen/_views/giftlist/_emailmodal.asp",
+		"/C/web/sites/SB-Shop/scripts/_incBuildTables.asp",
+		"/C/web/sites/SB-Shop/mobile/app/areas/responsive/views/product/_rating.asp",
+		"/C/web/sites/SB-Shop/mobile/domain/entities/GiftlistEntity.asp",
+		"/C/web/sites/SB-Shop/mobile/app/models/FormInputModel.asp",
+		"/C/web/sites/SB-Shop/mobile/app/templates/vtwonen/_views/customer/_profileForm.asp",
+		"/C/web/sites/SB-Shop/mobile/app/templates/vtwonen/_views/giftlist/_list.asp"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 170.0,
+		"where_history":
+		[
+			"<project>",
+			"<project>, *.less",
+			"<project>, *.js",
+			"<project>, *.asp",
+			"C:\\web\\sites\\SB-Shop\\mobile\\app\\templates\\vtwonen\\_views\\customer",
+			"<project>, *.asp",
+			"<project>, *.js",
+			"<project>, *.asp",
+			"<project>, *.js",
+			"<project>, *.asp",
+			"<project>, *.js",
+			"<project>, *.asp",
+			"<project>, *.js",
+			"<project>, *.asp",
+			"<project>",
+			"<project>, *.asp",
+			"<project>, *.js",
+			"<project>, *.asp",
+			"<project>, *.js",
+			"<project>, *.asp",
+			"<project>, *.less",
+			"<project>, *.asp",
+			"<project>, *.less",
+			"<project>, *.asp",
+			"<project>, *.less",
+			"<project>, *.asp",
+			"<project>, *.less",
+			"<project>",
+			"<project>, *.asp",
+			"<project>",
+			"<project>, *.asp",
+			"<project>, *.less",
+			"<project>, *.asp",
+			"<project>, *.js",
+			"<project>, *.asp",
+			"<project>, *.less",
+			"<project>, *.asp",
+			"<project>, *.less",
+			"<project>, *.asp",
+			"<project>, *.less",
+			"<project>, *.js",
+			"<project>, *.asp",
+			"<project>, *.less",
+			"<project>, *.asp",
+			"<project>, *.js",
+			"<project>, *.asp",
+			"<project>, *.js",
+			"<project>, *.asp",
+			"<project>, *.js",
+			"<project>, *.less",
+			"<project>, *.asp",
+			"<project>, *.less",
+			"<project>, *.asp",
+			"<project>, *.less",
+			"<project>, *.asp",
+			"<open files>, *.less",
+			"<open files>",
+			"",
+			"<project>, *.asp",
+			"<project>, *.asp;",
+			"<project>, *.less",
+			"<project>, *.asp",
+			"<project>, *.less",
+			"<project>, *.asp",
+			"<project>, *.less",
+			"<project>, *.asp",
+			"<project>, *.less",
+			"<project>, *.asp",
+			"<project>, *.js",
+			"<project>, *.css",
+			"<project>, *.asp",
+			"<project>, *.asp					",
+			"<project>, *.asp				",
+			"<project>, *.asp			",
+			"<project>, *.asp		",
+			"<project>, *.asp	",
+			"<project>, *.asp",
+			"<project>, *.js",
+			"<project>, *.asp",
+			"<project>",
+			"<project>, *.asp",
+			"<project>, *.js",
+			"<project>, *.asp",
+			"<project>, *.less",
+			"<project>, *.asp",
+			"<project>",
+			"<project>, *.asp",
+			"<project>",
+			"<project>, *.asp",
+			"<project>, *.js",
+			"<project>, *.asp",
+			"<project>",
+			"<project>, *.asp",
+			"<project>, *.less",
+			"<project>, *.asp",
+			"<project>, *.less",
+			"<project>, *.asp",
+			"<project>, *.less",
+			"<project>, *.asp",
+			"<project>",
+			"C:\\web\\sites\\SB-Shop\\usermods\\templates",
+			"<project>",
+			"C:\\web\\sites\\SB-Shop\\usermods\\templates",
+			"<project>",
+			"<project>, *.asp",
+			"<project>, *.css",
+			"<project>, *.asp",
+			"<project>, *.js",
+			"<project>, *.asp",
+			"<project>, *.as",
+			"<project>, *.less",
+			"<project>, *.asp",
+			"<project>, *.less",
+			"<project>, *.asp",
+			"<project>, *.less",
+			"<project>, *.asp",
+			"<project>, *.less",
+			"<project>, *.asp",
+			"<project>, *.less",
+			"<project>, *.asp",
+			"<project>, *.less",
+			"<project>, *.asp",
+			"<project>, *.js",
+			"<project>, *.asp",
+			"<project>, *.js",
+			"<project>, *.asp",
+			"<project>, *.less",
+			"<project>, *.js"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"em",
+			"todos",
+			"createact",
+			"getNextId",
+			"path",
+			"FAIL",
+			"transform-runtime",
+			"state",
+			"addTodo",
+			"todo-app",
+			"actionsHandlers",
+			"combineReducers",
+			"createReducer",
+			"_TODO",
+			"todo",
+			"addTodo",
+			"React.PropTypes",
+			"dispatch",
+			"default",
+			"dangle",
+			"html",
+			"css",
+			"connect-history-api-fallback",
+			"hot",
+			"GetLatLng",
+			"set",
+			"GetDeepProperty",
+			" class=\"row columns account-articles account-articles-wishlist\">",
+			"account-overview-wishlist",
+			".GiftList",
+			"account-overview-wishlist",
+			"bulk_actions",
+			"account-overview-wishlist",
+			"wishlist-action-bar",
+			"article-view-type",
+			"BuildVTBody",
+			"messages",
+			"function FixEmail",
+			"LoginVTWonen",
+			"login",
+			"messages relative",
+			"Subject",
+			"subj",
+			"function GetCookieShopId",
+			"GetCookieShopId",
+			"ValidateOrderCartInfo",
+			"ValidateOrderCheckoutInfo",
+			"Context.Session.Item(GetCookieShopId() & \"idCustAsGuest\")",
+			"idCustAsGuest",
+			"ProceedAsGuest",
+			"BuildFeedback",
+			"het wachtw",
+			"ValidateOrderCheckoutInfo",
+			"SaveOrderCheckoutData",
+			"guest",
+			"FillOrderFromPost",
+			"ValidateOrderCheckoutInfo",
+			"SaveOrderCheckoutData",
+			"guest",
+			"br",
+			"islivingbrand",
+			"guest",
+			"ProceedAsGuest",
+			"logonSkipSubmit",
+			"idCustAsGuestEmail",
+			"GetHighlights",
+			"categoryHighlights",
+			"highlig",
+			"GetArrayIndex(model.attachments, 0)",
+			"GetDeepProperty",
+			"GetLatLong",
+			"pick",
+			"json",
+			"FLOAT",
+			"geocode",
+			"GetCountryCodeFromWebService",
+			"geoloc",
+			"GetActiveLocationsFiltered",
+			"zip",
+			"GetActiveLocations",
+			"GetActiveLocations(",
+			"GetActiveLocations",
+			"MapLocationdao",
+			"GetAllProductTypes",
+			"RenderPartialsFromCache",
+			"div class=\"outlets-holder\">",
+			"transition-delay",
+			"spinner",
+			"VTWonenAdressBookViewModel",
+			"i",
+			"FillCustomerAddressFromForm",
+			"InformationVTWonen",
+			"AddressInsertOrUpdate",
+			"customerAddressEntity",
+			"customerAddressDao",
+			"AddressInsertOrUpdate",
+			"FillCustomerFromPost",
+			"CountryDao",
+			"country",
+			".getall(",
+			"GetAllCountries",
+			"countriesFromDao",
+			"GetAll",
+			"FillCustomerAddressFrom",
+			"FillCustomerAddressFromDao",
+			"call FillCustomerAddressFromDao(address, customerAddressEntity)\n                            set address.Countries = countries\n                            set address.ErrorFields = errorFields\n                            set model.VTWonenAdressBookViewModel.Addresses(Cstr(address.Id)) = address",
+			"VTWonenAdressBookAddress",
+			"FillCustomerAddressFromDao",
+			"insertedAddressModel",
+			"clear",
+			"customerAddresses",
+			"InformationVTWonen",
+			"addressb",
+			"_product.images",
+			"'",
+			"ImageProductPage",
+			"Product-promo-info",
+			"promotion-info-top",
+			"promotion-info",
+			"<body",
+			"IsResponsivePage",
+			".is-mobile",
+			"GetPromotionsJoin",
+			"promo",
+			"GetPromotionsJoin",
+			"MapRowToProductSC",
+			"promoimage",
+			"ImageProductPage"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Context.Shop.UsePickDeliveryDate",
+			"Context.Shop.OneDayOfferCategoryId",
+			"Session(\"Response.Charset\")",
+			"",
+			"Core.GetDao(\"Category\").GetProductCategoryId",
+			"Format(",
+			"IsAjax",
+			"ParseDouble",
+			"ParseInt",
+			"IsEmail",
+			"IsInteger",
+			"RegexReplace",
+			"RegexTest",
+			"IfEmpty(",
+			"Context.Order.TotalQuantity",
+			"lh3",
+			"JsonConverter",
+			"",
+			"_auxiliary",
+			"Auxiliary",
+			"Context.Shop.UseOneDayOffer"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/App.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1403,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								586,
+								586
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-OceanicNext (SL).tmTheme",
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 216.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/ducks/todo/add.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1598,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								266,
+								266
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-OceanicNext (SL).tmTheme",
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 968,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								500,
+								500
+							]
+						],
+						"settings":
+						{
+							"auto_name": "// https://github.com/koshuang/react-redux-starter",
+							"default_dir": "D:\\web\\redux",
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "todo.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 770,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								770,
+								770
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/helpers.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 529,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								471,
+								483
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-OceanicNext (SL).tmTheme",
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 63.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 174.0
+	},
+	"pinned_build_system": "",
+	"project": "redux-todo.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"hel",
+				"redux-todo\\src\\helpers.js"
+			],
+			[
+				"packa",
+				"redux-todo\\package.json"
+			],
+			[
+				"rootred",
+				"redux-todo\\src\\ducks\\rootReducer.js"
+			],
+			[
+				"configst",
+				"redux-todo\\src\\ducks\\configureStore.js"
+			],
+			[
+				"mapdap",
+				"mobile\\domain\\dao\\MapDao.asp"
+			],
+			[
+				"giftlist_",
+				"mobile\\app\\templates\\vtwonen\\_views\\giftlist\\_list.asp"
+			],
+			[
+				"giftlistindex",
+				"mobile\\app\\templates\\vtwonen\\_views\\giftlist\\index.asp"
+			],
+			[
+				"layout",
+				"mobile\\app\\templates\\vtwonen\\Layout.asp"
+			],
+			[
+				"customercontr",
+				"mobile\\app\\controllers\\CustomerController.asp"
+			],
+			[
+				"web.con",
+				"mobile\\web.config"
+			],
+			[
+				"notific",
+				"mobile\\lib\\classes\\NotificationManager.asp"
+			],
+			[
+				"reviewdao",
+				"mobile\\domain\\dao\\ReviewDao.asp"
+			],
+			[
+				"prodcontr",
+				"mobile\\app\\controllers\\ProductController.asp"
+			],
+			[
+				"prodindex",
+				"mobile\\app\\templates\\vtwonen\\_views\\product\\index.asp"
+			],
+			[
+				"prodreview",
+				"scripts\\prodReview.asp"
+			],
+			[
+				"sessionh",
+				"mobile\\lib\\classes\\SessionHandler.asp"
+			],
+			[
+				"base.asp",
+				"mobile\\lib\\helpers\\base.asp"
+			],
+			[
+				"inchcec",
+				"scripts\\_incCheckEmail.asp"
+			],
+			[
+				"orderdao",
+				"mobile\\domain\\dao\\OrderDao.asp"
+			],
+			[
+				"20custjs",
+				"media\\_shared\\js\\20_customer.js"
+			],
+			[
+				"inccheckem",
+				"scripts\\_incCheckEmail.asp"
+			],
+			[
+				"ordercheckout",
+				"mobile\\app\\areas\\responsive\\views\\order\\checkout.asp"
+			],
+			[
+				"20cust",
+				"scripts\\20_Customer.asp"
+			],
+			[
+				"classmen",
+				"scripts\\class_menuList.asp"
+			],
+			[
+				"vt-vt",
+				"usermods\\templates\\vt-vt.asp"
+			],
+			[
+				"base.a",
+				"mobile\\lib\\helpers\\base.asp"
+			],
+			[
+				"_article.23g",
+				"mobile\\app\\templates\\vtwonen\\_views\\product\\_article.23g.asp"
+			],
+			[
+				"brandhigh",
+				"mobile\\app\\templates\\vtwonen\\_views\\brand\\highlights.asp"
+			],
+			[
+				"brandindex",
+				"mobile\\app\\views\\brand\\index.asp"
+			],
+			[
+				"htac",
+				"mobile\\.htaccess"
+			],
+			[
+				"brandcont",
+				"mobile\\app\\controllers\\BrandController.asp"
+			],
+			[
+				"array",
+				"mobile\\lib\\helpers\\base.arrays.asp"
+			],
+			[
+				"datab",
+				"mobile\\lib\\classes\\Database.asp"
+			],
+			[
+				"inctool",
+				"scripts\\_incTools_.asp"
+			],
+			[
+				"maploc",
+				"sb-core\\functions\\mapLocations.asp"
+			],
+			[
+				"verkoop",
+				"_docs\\responsive-templates\\verkooppunten.html"
+			],
+			[
+				"giftlistcontr",
+				"mobile\\app\\controllers\\GiftListController.asp"
+			],
+			[
+				"colorsch",
+				"media\\vt-vt\\style\\settings\\_colorscheme.less"
+			],
+			[
+				"vtwoneles",
+				"media\\vt-vt\\style\\layout\\vtwonen-nl.less"
+			],
+			[
+				"23gless",
+				"mobile\\app\\templates\\vtwonen\\css\\23g.less"
+			],
+			[
+				"htacc",
+				".htaccess"
+			],
+			[
+				"addresitem",
+				"mobile\\app\\templates\\vtwonen\\_views\\customer\\_informationAddressItem.asp"
+			],
+			[
+				"addressitem",
+				"mobile\\app\\templates\\vtwonen\\_views\\customer\\_informationAddressItem.asp"
+			],
+			[
+				"_product.image",
+				"mobile\\app\\templates\\vtwonen\\_views\\product\\_product.images.asp"
+			],
+			[
+				"23glss",
+				"mobile\\app\\templates\\vtwonen\\css\\23g.less"
+			],
+			[
+				"prdindex",
+				"mobile\\app\\templates\\vtwonen\\_views\\product\\index.asp"
+			],
+			[
+				"layou",
+				"mobile\\app\\templates\\vtwonen\\Layout.asp"
+			],
+			[
+				"prodent",
+				"mobile\\domain\\entities\\ProductEntity.asp"
+			],
+			[
+				"web.co",
+				"mobile\\web.config"
+			],
+			[
+				"proddao",
+				"mobile\\domain\\dao\\ProductDao.asp"
+			],
+			[
+				"prodcp",
+				"mobile\\app\\controllers\\ProductController.asp"
+			],
+			[
+				"custlist",
+				"scripts\\custListOrders.asp"
+			],
+			[
+				"prodview",
+				"scripts\\prodView.asp"
+			],
+			[
+				"_bran",
+				"mobile\\app\\templates\\vtwonen\\_views\\product\\_product.brand.asp"
+			],
+			[
+				"web.c",
+				"mobile\\web.config"
+			],
+			[
+				"web.conf",
+				"web.config"
+			],
+			[
+				"product.asp",
+				"sb-core\\functions\\product.asp"
+			],
+			[
+				"23gjs",
+				"media\\vt-vt\\js\\23g.js"
+			],
+			[
+				"customcontr",
+				"mobile\\app\\controllers\\CustomerController.asp"
+			],
+			[
+				"mapinc",
+				"mobile\\domain\\mappings\\_includes.asp"
+			],
+			[
+				"database",
+				"mobile\\lib\\classes\\Database.asp"
+			],
+			[
+				"base.mv",
+				"mobile\\lib\\helpers\\base.mvc.asp"
+			],
+			[
+				"giftlistdao",
+				"mobile\\domain\\dao\\GiftlistDao.asp"
+			],
+			[
+				"voorjaarcontr",
+				"mobile\\app\\controllers\\VoorjaarshuisController.asp"
+			],
+			[
+				"voorjalijst",
+				"mobile\\app\\templates\\vtwonen\\_views\\voorjaarshuis\\lijst.asp"
+			],
+			[
+				"branddao",
+				"mobile\\domain\\dao\\BrandDao.asp"
+			],
+			[
+				"brandent",
+				"mobile\\domain\\entities\\BrandEntity.asp"
+			],
+			[
+				"vtvt",
+				"usermods\\templates\\vt-vt.asp"
+			],
+			[
+				"shopent",
+				"mobile\\domain\\entities\\ShopEntity.asp"
+			],
+			[
+				"kernel",
+				"mobile\\lib\\classes\\Kernel.asp"
+			],
+			[
+				"_prodbrand",
+				"mobile\\app\\templates\\vtwonen\\_views\\product\\_product.brand.asp"
+			],
+			[
+				"brandcontr",
+				"mobile\\app\\controllers\\BrandController.asp"
+			],
+			[
+				"accounta",
+				"_docs\\responsive-templates\\account-aanmelden.html"
+			],
+			[
+				"catego",
+				"mobile\\app\\controllers\\CategoryController.asp"
+			],
+			[
+				"category",
+				"mobile\\app\\controllers\\CategoryController.asp"
+			],
+			[
+				"elasti",
+				"mobile\\domain\\services\\ElasticSearchService.asp"
+			],
+			[
+				"base.arr",
+				"mobile\\lib\\helpers\\base.arrays.asp"
+			],
+			[
+				"base.arra",
+				"mobile\\lib\\helpers\\base.arrays.asp"
+			],
+			[
+				"cart.asp",
+				"scripts\\cart.asp"
+			],
+			[
+				"giftent",
+				"mobile\\domain\\entities\\GiftlistEntity.asp"
+			],
+			[
+				"custcontrol",
+				"mobile\\app\\controllers\\CustomerController.asp"
+			],
+			[
+				"layout.as",
+				"mobile\\app\\templates\\vtwonen\\Layout.asp"
+			],
+			[
+				"formin",
+				"mobile\\app\\templates\\vtwonen\\_views\\customer\\_formInput.asp"
+			],
+			[
+				"emailmod",
+				"mobile\\app\\templates\\vtwonen\\_views\\giftlist\\_emailmodal.asp"
+			],
+			[
+				"forminp",
+				"mobile\\app\\templates\\vtwonen\\_views\\customer\\_formInput.asp"
+			],
+			[
+				"forminputm",
+				"mobile\\app\\models\\FormInputModel.asp"
+			],
+			[
+				"gitlistent",
+				"mobile\\domain\\entities\\GiftlistEntity.asp"
+			],
+			[
+				"mailmodal",
+				"mobile\\app\\templates\\vtwonen\\_views\\giftlist\\_emailmodal.asp"
+			],
+			[
+				"incbuild",
+				"scripts\\_incBuildTables.asp"
+			],
+			[
+				"baseht",
+				"mobile\\lib\\helpers\\base.html.asp"
+			],
+			[
+				"_profileform",
+				"mobile\\app\\templates\\vtwonen\\_views\\customer\\_profileForm.asp"
+			],
+			[
+				"layout.asp",
+				"mobile\\app\\templates\\vtwonen\\Layout.asp"
+			],
+			[
+				"customerwis",
+				"mobile\\app\\templates\\vtwonen\\_views\\customer\\wishlist.asp"
+			],
+			[
+				"mapincl",
+				"mobile\\domain\\mappings\\_includes.asp"
+			],
+			[
+				"map",
+				"sb-core\\functions\\mapLocations.asp"
+			],
+			[
+				"mapda",
+				"mobile\\domain\\dao\\MapDao.asp"
+			],
+			[
+				"profileform",
+				"mobile\\app\\templates\\vtwonen\\_views\\customer\\_profileForm.asp"
+			],
+			[
+				"customerperinform",
+				"mobile\\app\\templates\\vtwonen\\_views\\customer\\_informationPersonalInformation.asp"
+			],
+			[
+				"formmode",
+				"mobile\\app\\models\\FormInputModel.asp"
+			],
+			[
+				"profilec",
+				"mobile\\app\\templates\\vtwonen\\_views\\customer\\_profileCustomer.asp"
+			],
+			[
+				"base.",
+				"mobile\\lib\\helpers\\base.asp"
+			],
+			[
+				"customerent",
+				"mobile\\domain\\entities\\CustomerEntity.asp"
+			],
+			[
+				"23g.js",
+				"media\\vt-vt\\js\\23g.js"
+			],
+			[
+				"_list",
+				"mobile\\app\\templates\\vtwonen\\_views\\giftlist\\_list.asp"
+			],
+			[
+				"i18n",
+				"mobile\\lib\\classes\\I18nEngine.asp"
+			],
+			[
+				"customerorders",
+				"mobile\\app\\templates\\vtwonen\\_views\\customer\\orders.asp"
+			],
+			[
+				"profile",
+				"mobile\\app\\templates\\vtwonen\\_views\\customer\\profile.asp"
+			],
+			[
+				"profileorder",
+				"mobile\\app\\templates\\vtwonen\\_views\\customer\\_profileOrders.asp"
+			],
+			[
+				"profilegift",
+				"mobile\\app\\templates\\vtwonen\\_views\\customer\\_profileGiftList.asp"
+			],
+			[
+				"customercontrol",
+				"mobile\\app\\controllers\\CustomerController.asp"
+			],
+			[
+				"base.shop",
+				"mobile\\lib\\helpers\\base.shop.asp"
+			],
+			[
+				"forminputmod",
+				"mobile\\app\\models\\FormInputModel.asp"
+			],
+			[
+				"inforaddre",
+				"mobile\\app\\templates\\vtwonen\\_views\\customer\\_informationAddressItem.asp"
+			],
+			[
+				"addressbook",
+				"mobile\\app\\templates\\vtwonen\\_views\\customer\\_informationAddressBook.asp"
+			],
+			[
+				"incbui",
+				"scripts\\_incBuildTables.asp"
+			],
+			[
+				"incwish",
+				"scripts\\_incWishList.asp"
+			],
+			[
+				"_orders.as",
+				"mobile\\app\\templates\\vtwonen\\_views\\customer\\_orders.asp"
+			],
+			[
+				"_order.asp",
+				"mobile\\app\\areas\\responsive\\views\\customer\\_order.asp"
+			],
+			[
+				"giftlistmode",
+				"mobile\\app\\models\\GiftlistModel.asp"
+			],
+			[
+				"custcontr",
+				"mobile\\app\\controllers\\CustomerController.asp"
+			],
+			[
+				"registercompac",
+				"mobile\\app\\templates\\vtwonen\\_views\\customer\\registercompact.asp"
+			],
+			[
+				"registercompa",
+				"mobile\\app\\views\\customer\\registercompact.asp"
+			],
+			[
+				"giftlistmodel",
+				"mobile\\app\\models\\GiftListIndexViewModel.asp"
+			],
+			[
+				"custcontrl",
+				"mobile\\app\\controllers\\CustomerController.asp"
+			],
+			[
+				"giftlistcontrol",
+				"mobile\\app\\controllers\\GiftListController.asp"
+			],
+			[
+				"ordercontrol",
+				"mobile\\app\\controllers\\OrderController.asp"
+			],
+			[
+				"giftlistcon",
+				"mobile\\app\\controllers\\GiftListController.asp"
+			],
+			[
+				"orderent",
+				"mobile\\domain\\entities\\OrderEntity.asp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": " ",
+		"selected_items":
+		[
+			[
+				" ",
+				"C:\\web\\sites\\SB-Shop\\sb-shop.sublime-project"
+			],
+			[
+				"",
+				"D:\\web\\channelengine-app\\channelengine-app.sublime-workspace"
+			],
+			[
+				"shopc",
+				"C:\\web\\sites\\SB-Shopcontrol\\sb-shopcontrol.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 363.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

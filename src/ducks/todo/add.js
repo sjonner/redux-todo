@@ -1,45 +1,65 @@
-import { createReducer } from '../../helpers';
+// import { createAction } from 'redux-actions';
+import { createReducer, createRequestActionTypes } from '../../helpers';
 
-function getNextId(todos) {
-  return todos.reduce((maxId, todo) => Math.max(maxId, todo.id), 0) + 1;
+function getNextId(items) {
+  return items.reduce((maxId, todo) => Math.max(maxId, todo.id), 0) + 1;
 }
 
 // ------------------------------------
-// Constants
+// ActionTypes/Constants
 // ------------------------------------
-const ADD = 'todo/ADD';
-const ADD_SUCCESS = 'todo/ADD_SUCCESS';
-const ADD_FAIL = 'todo/ADD_FAIL';
+const ADD = createRequestActionTypes('todo/ADD');
 
 // ------------------------------------
 // ActionCreators
 // ------------------------------------
-export const addTodo = (text) => ({
-  text,
-  type: ADD,
-});
+export const addTodo = (text) => (dispatch) => {
+  dispatch({ type: ADD.REQUEST });
+  setTimeout(() => (
+    Math.floor(3 * Math.random()) === 0
+      ? dispatch({ error: new Error('failed async add'), type: ADD.FAILURE })
+      : dispatch({ text, type: ADD.SUCCESS })
+  ), 10);
+};
+// export const addTodo = createAction(ADD.REQUEST);
 
 // ------------------------------------
-// Action Handlers
+// ActionHandlers
 // ------------------------------------
 const actionHandlers = {
-  [ADD]: (state, action) => [
+  [ADD.REQUEST]: (state, action) => ({
     ...state,
-    {
-      id: getNextId(state),
-      text: action.text,
-      completed: false,
-    }
-  ]
+    loading: true,
+    error: null,
+  }),
+
+  [ADD.SUCCESS]: (state, action) => ({
+    items: [
+      ...state.items,
+      {
+        id: getNextId(state.items),
+        text: action.text,
+        completed: false,
+      }
+    ],
+    loading: false,
+    error: null,
+  }),
+
+  [ADD.FAILURE]: (state, action) => ({
+    ...state,
+    loading: false,
+    error: action.error,
+  }),
 };
 
 // ------------------------------------
 // Reducer
 // ------------------------------------
-const initialState = [
-  { id: 0, text: 'Hey', completed: false },
-  { id: 1, text: 'Ho', completed: false },
-  { id: 2, text: 'Let\'s go', completed: false },
-];
+const initialState = {
+  items: [],
+  loading: false,
+  error: null,
+};
 
 export default createReducer(actionHandlers, initialState);
